@@ -35,16 +35,16 @@ function Footer() {
       </div>
       <div className="footer__container">
         <ul className="footer__collections">
-          Qovun
+          Birbalo
           <li className="footer__item">Qo'llab-quvvatlash raqami</li>
-          <li>+998 (93) 513 63 30</li>
+          <li><a href="tel:+998905126666">+998 (90) 512 66 66</a></li>
           <li className="footer__location">
             <CiLocationOn />
             <span>Namangan sh, Namangan</span>
           </li>
           <li className="footer__mail">
             <CiMail />
-            <span>info@qovun.uz</span>
+            <span>info@Birbalo.uz</span>
           </li>
         </ul>
         <ul className="footer__collections">
@@ -68,7 +68,7 @@ function Footer() {
       </div>
       <hr />
       <div className="policy">
-        <p>© 2017-2023. ООО "Qovun store"</p>
+        <p>© 2024. ООО "Birbalo store"</p>
         <p>Ommaviy oferta</p>
         <p>Maxfiylik siyosati</p>
         <div>

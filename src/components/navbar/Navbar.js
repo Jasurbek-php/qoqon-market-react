@@ -28,7 +28,7 @@ function Navbar() {
     <>
       <div className="container navbar__main">
         <Link to={"/"} className="nav__logo">
-          Qovun.uz
+          Birbalo.uz
         </Link>
         <button className="nav__btn" onClick={handleSidebar}>
           <AiOutlineMenu />
